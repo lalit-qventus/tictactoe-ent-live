@@ -1,0 +1,9 @@
+.env
+.beads/
+.claude/
+.runtime/
+.god-mode/
+.repo.git/
+__pycache__/
+*.py[cod]
+*.egg-info/
